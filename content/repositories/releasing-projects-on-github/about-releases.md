@@ -10,7 +10,7 @@ redirect_from:
   - /github/administering-a-repository/about-releases
   - /github/administering-a-repository/releasing-projects-on-github/about-releases
 versions:
-  fpt: '*'
+  fpt: '*'content/packages/learn-github-packages/installing-a-package.md
   ghes: '*'
   ghae: '*'
   ghec: '*'
